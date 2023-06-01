@@ -1040,11 +1040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cinar\\Desktop\\weblog\\weblog.csproj",
+      "projectUniqueName": "C:\\Users\\Cinar\\Documents\\GitHub\\asp-weblog\\weblog\\weblog.csproj",
       "projectName": "weblog",
-      "projectPath": "C:\\Users\\Cinar\\Desktop\\weblog\\weblog.csproj",
+      "projectPath": "C:\\Users\\Cinar\\Documents\\GitHub\\asp-weblog\\weblog\\weblog.csproj",
       "packagesPath": "C:\\Users\\Cinar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cinar\\Desktop\\weblog\\obj\\",
+      "outputPath": "C:\\Users\\Cinar\\Documents\\GitHub\\asp-weblog\\weblog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
